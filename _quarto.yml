@@ -13,7 +13,7 @@ website:
 
 format:
   html:
-    theme:
+    theme: Flatly
       - cosmo
       - brand
     css: styles.css
