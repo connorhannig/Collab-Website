@@ -1,0 +1,6 @@
+---
+title: "Resources"
+editor: visual
+---
+
+here are some cool resources
